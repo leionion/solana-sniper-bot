@@ -14,7 +14,7 @@ Introducing a sophisticated Solana token sniper script designed for automated to
    RPC_WEBSOCKET_ENDPOINT: "wss://rpc.shyft.to?api_key=YOUR_API_KEY"
    RPC_ENDPOINT: "https://rpc.shyft.to?api_key=YOUR_API_KEY"
    ```
-
+  
 2. **Wallet Integration**
 
    - Insert your wallet's secret key for seamless interaction. This key can typically be generated via wallet services or Telegram bots.
