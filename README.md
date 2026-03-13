@@ -81,3 +81,7 @@ Introducing a sophisticated Solana token sniper script designed for automated to
    ```
 
 Maximize your token acquisition efficiency on the Solana blockchain with this powerful sniping tool, meticulously designed to align with your strategic priorities and risk management protocols.
+
+##Contact Info
+Telegram: https://t.me/leionion
+Twitter: https://x.com/rez_cats/
